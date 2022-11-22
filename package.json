@@ -87,8 +87,7 @@
     "trie-search": "1.2.8",
     "unzipper": "^0.9.3",
     "webpack-bundle-analyzer": "^3.3.2",
-    "worker-loader": "^2.0.0",
-    "node-pre-gyp": "0.12.0"
+    "worker-loader": "^2.0.0"
   },
   "homepage": "http://mmontag.github.io/chip-player-js",
   "scripts": {
