@@ -68,6 +68,9 @@
     "whatwg-fetch": "2.0.3",
     "workbox-webpack-plugin": "4.2.0"
   },
+  "devDev": {
+    "node-pre-gyp": "0.12.0"
+  },
   "devDependencies": {
     "@firebase/app-types": "0.x",
     "@firebase/util": "0.x",
